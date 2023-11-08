@@ -1,12 +1,12 @@
 {
-  "name": "upinside/fsphp",
-  "description": "Formação Full Stack PHP Developer",
+  "name": "agenda/agenda",
+  "description": "Agenda para marcar compromissos",
   "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Robson V. Leite",
-      "email": "cursos@upinside.com.br",
-      "homepage": "https://www.upinside.com.br",
+      "name": "Gabriel Gomes",
+      "email": "gabrielgomessdasilva13@gmail.com",
+      "homepage": "https://www.portifolio-gabrielgomes.epizy.com/",
       "role": "Developer"
     }
   ],

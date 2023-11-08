@@ -3,11 +3,9 @@
 namespace Source\Core;
 
 use Source\Support\Message;
-
 /**
- * FSPHP | Class Model Layer Supertype Pattern
  *
- * @author Robson V. Leite <cursos@upinside.com.br>
+ * @author Gabriel Gomes <gabrielgomessdasilva13@gmail.com>
  * @package Source\Models
  */
 abstract class Model

@@ -5,9 +5,8 @@ namespace Source\Models;
 use Source\Core\Model;
 
 /**
- * FSPHP | Class User Active Record Pattern
  *
- * @author Robson V. Leite <cursos@upinside.com.br>
+ * @author Gabriel Gomes <gabrielgomessdasilva13@gmail.com>
  * @package Source\Models
  */
 class Schedule extends Model

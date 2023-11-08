@@ -6,10 +6,9 @@ use PDO;
 use PDOException;
 
 /**
- * FSPHP | Class Connect [ Singleton Pattern ]
  *
- * @author Robson V. Leite <cursos@upinside.com.br>
- * @package Source\Core
+ * @author Gabriel Gomes <gabrielgomessdasilva13@gmail.com>
+ * @package Source\Models
  */
 class Connect
 {

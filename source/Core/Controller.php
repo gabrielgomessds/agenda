@@ -6,10 +6,9 @@ use Source\Support\Message;
 use Source\Support\Seo;
 
 /**
- * FSPHP | Class Controller
  *
- * @author Robson V. Leite <cursos@upinside.com.br>
- * @package Source\Core
+ * @author Gabriel Gomes <gabrielgomessdasilva13@gmail.com>
+ * @package Source\Models
  */
 class Controller
 {
