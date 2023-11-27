@@ -1,7 +1,7 @@
 # Agenda
 Agenda completa com PHP
 <h3>:mega: Sobre o projeto: </h3>
-<p>Esse é um sistema de agenda que consiste em armazenar compromissos estilo google agenda utilizando o fullcalendar + 8.2</p>
+<p>Esse é um sistema de agenda que consiste em armazenar compromissos estilo google agenda utilizando o fullcalendar + PHP 8.2</p>
 
 <h3>:wrench: Funcionalidades: </h3>
 <ol>
